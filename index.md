@@ -1,8 +1,6 @@
 #CSE15L#
 
 ##Markdown Practice##
-
-Horizontal rule: 
 ---
 **This** is a *test*
 
