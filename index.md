@@ -20,9 +20,12 @@ This [link](https://lithicarus.github.io/-cse15l-lab-reports/) links this page
 2. arf
 3. moo
 
-'contrast inline code' with normal
+`contrast inline code` with normal
 
-....System.out.println("Hello World");
-.... what does a code block look like?
+````
+
+System.out.println("Hello World");
+what does a code block look like?
+ ````
 
 
