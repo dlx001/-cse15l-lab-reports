@@ -7,7 +7,7 @@
 
 simply google install vsCode. Install the correct type depending on what operating system you use. For this tutorial, we will show windows. Once you press download, you will download an installer. Once installed, you can create a new folder and open that project or you can open an existing project. Below is what it looks like if you open an existing project. 
 
-![Image](VSCodeProof.png)
+![Image](VSCodeProof.PNG)
 
 ## Remotely Connecting ##
 
