@@ -6,7 +6,7 @@
 
 This [Lab Report 1] (lab-report-1-week2.html)
 
-This [Lab Report 1](https://lithicarus.github.io/-cse15l-lab-reports/lab-report-1-week2.html)
+This [Lab Report 1](https://lithicarus.github.io/-cse15l-lab-reports/lab-report-1-week-2.html)
 
 
  tests the other method of linking lab report with URL
