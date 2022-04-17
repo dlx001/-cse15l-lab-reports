@@ -76,3 +76,12 @@ ssh cs15lsp22adq@ieng6.ucsd.edu
 javac WhereAmI.java; java WhereAmI
 ```
 After the first run, you can use up arrow keys to further eliminate the amount of keystrokes required while using different file names. 
+
+![Image](Optimize.PNG)<br>
+In practice, above is what it would look like.
+
+ After the first login, I disconnected from the server to make any edits and then used up arrows to reuse the code typed previously to recopy, login, and run the file. 
+ 
+ The first line of code copies the file to the server. The second line then accesses the server. The third line then runs the copied file on the server to ensure that the new copy was saved. 
+
+
