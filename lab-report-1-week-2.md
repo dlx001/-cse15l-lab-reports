@@ -70,9 +70,9 @@ If successful, you can exit the server, attempt the scp command, and you should 
 ## Optimizing Remote Running ##
 
 To make copying and running files on the server even faster, you can use the following commands
-
-- scp WhereAmI.java cs15lsp22adq@ieng6.ucsd.edu:~/
-- ssh cs15lsp22adq@ieng6.ucsd.edu
-- javac WhereAmI.java; java WhereAmI
-
+```
+scp WhereAmI.java cs15lsp22adq@ieng6.ucsd.edu:~/
+ssh cs15lsp22adq@ieng6.ucsd.edu
+javac WhereAmI.java; java WhereAmI
+```
 After the first run, you can use up arrow keys to further eliminate the amount of keystrokes required while using different file names. 
