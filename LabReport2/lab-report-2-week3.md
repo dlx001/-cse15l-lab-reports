@@ -15,16 +15,16 @@ The reason this occured is because the only parameters originally used to consid
 
 ## Second Adjustment ##
 
-![imageCheck](nolink.PNG)
+![imageCheck](testImages.PNG)
 
 [Failed test File](testNoLink.html)
 
-![image](testNoLinkOutput.PNG)
-![image](JUnitNoLinktest.PNG)
+![image](Incorrect.PNG)
 
-The failure inducing input was the typical markdown for a URL except there wasn't a URL
 
-Since there was nothing checking the contents inside of the parantheses, this empty string was considered a URL and added to the ArrayList. From the initial test using javac, it was impossible to tell, but from testing the arraylist size using JUnit, it was showing that unexpected output
+The failure inducing input was the image markdown except it was preceded with multiple exclamation marks
+
+Since the markdownparser originally used indexOf to find the index of the exclamation marker and compared it with the location of the brackets, it would fail to see the exclamation mark for an image if there were exclamation marks before it. Therefore, it incorrectly puts the image URL path as a link URL in the Arraylist. 
 
 ## Third Adjustment ##
 
