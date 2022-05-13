@@ -6,7 +6,7 @@
 
 config was created and edited using notepad
 
-![scp](scpOption1.PNG)
+![scp](Rework.PNG)
 
 Here, I copied Markdownparser.java into the ieng6. Then I ssh into ieng6 and ls 
 to display and confirm that the Markdownparser copy was made. 
