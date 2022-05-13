@@ -23,15 +23,13 @@ After making the keys, both public and private keys were stored in a file called
 
 ![privateKey](privateKey.PNG)
 
-In Lab 6, we produced many changes such as adding makefile and the shell script mdparse. Below I enter the server and add, commit, and push origin main these changes to the github. 
+I simply edited a text file called test.txt using nano and then cat to make sure the edit happened. I then added the edit to the stage, committed it, and then pushed it to the origin. 
 
-
-![lab6Change](Lab6Changes.PNG)
-![lAb6Change](LAb6Contin.PNG)
+![lAb6Change](WorkingGit.PNG)
 
 below is the link for these changes on the github repo
 
-[Github Changes Link](https://github.com/lithicarus/markdown-parser/commit/633b5e40a21d96cd1b96fa30b4d163ded2a49ca1)
+[Github Changes Link](https://github.com/lithicarus/markdown-parser/commit/47cadf1daaf3ea325e3a2290f9c6be27f1b2a864)
 
 
 
