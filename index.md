@@ -12,4 +12,4 @@ Welcome to Daniel Xu's CSE15L Lab report page
 
 [Lab Report 4](https://lithicarus.github.io/-cse15l-lab-reports/LabReport4/lab-report-4-week-8.html)
 
-
+[Lab Report 5](https://lithicarus.github.io/-cse15l-lab-reports/LabReport5/lab-report-5-week10.html)
